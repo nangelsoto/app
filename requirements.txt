@@ -4,3 +4,4 @@ numpy
 opencv-python-headless
 pytesseract
 Pillow
+googletrans==4.0.0-rc1
